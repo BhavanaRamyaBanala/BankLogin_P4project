@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Webapp_BankLogin.props" />
+</Project>

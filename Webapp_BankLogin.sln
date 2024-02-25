@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webapp_BankLogin", "Webapp_BankLogin\Webapp_BankLogin.csproj", "{4228AEDF-E6E0-4A8C-B6B0-29FB41E541EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4228AEDF-E6E0-4A8C-B6B0-29FB41E541EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4228AEDF-E6E0-4A8C-B6B0-29FB41E541EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4228AEDF-E6E0-4A8C-B6B0-29FB41E541EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4228AEDF-E6E0-4A8C-B6B0-29FB41E541EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAB158D1-2FD1-4B0E-9A85-BF1A3FD88988}
+	EndGlobalSection
+EndGlobal

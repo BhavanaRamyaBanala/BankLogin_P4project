@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotNet\\Testing\\Webapp_BankLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4228AEDF-E6E0-4A8C-B6B0-29FB41E541EE}|Webapp_BankLogin\\Webapp_BankLogin.csproj|d:\\dotnet\\testing\\webapp_banklogin\\webapp_banklogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4228AEDF-E6E0-4A8C-B6B0-29FB41E541EE}|Webapp_BankLogin\\Webapp_BankLogin.csproj|solutionrelative:webapp_banklogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4228AEDF-E6E0-4A8C-B6B0-29FB41E541EE}|Webapp_BankLogin\\Webapp_BankLogin.csproj|d:\\dotnet\\testing\\webapp_banklogin\\webapp_banklogin\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4228AEDF-E6E0-4A8C-B6B0-29FB41E541EE}|Webapp_BankLogin\\Webapp_BankLogin.csproj|solutionrelative:webapp_banklogin\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4228AEDF-E6E0-4A8C-B6B0-29FB41E541EE}|Webapp_BankLogin\\Webapp_BankLogin.csproj|d:\\dotnet\\testing\\webapp_banklogin\\webapp_banklogin\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4228AEDF-E6E0-4A8C-B6B0-29FB41E541EE}|Webapp_BankLogin\\Webapp_BankLogin.csproj|solutionrelative:webapp_banklogin\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4228AEDF-E6E0-4A8C-B6B0-29FB41E541EE}|Webapp_BankLogin\\Webapp_BankLogin.csproj|d:\\dotnet\\testing\\webapp_banklogin\\webapp_banklogin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4228AEDF-E6E0-4A8C-B6B0-29FB41E541EE}|Webapp_BankLogin\\Webapp_BankLogin.csproj|solutionrelative:webapp_banklogin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4228AEDF-E6E0-4A8C-B6B0-29FB41E541EE}|Webapp_BankLogin\\Webapp_BankLogin.csproj|d:\\dotnet\\testing\\webapp_banklogin\\webapp_banklogin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4228AEDF-E6E0-4A8C-B6B0-29FB41E541EE}|Webapp_BankLogin\\Webapp_BankLogin.csproj|solutionrelative:webapp_banklogin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4228AEDF-E6E0-4A8C-B6B0-29FB41E541EE}|Webapp_BankLogin\\Webapp_BankLogin.csproj|d:\\dotnet\\testing\\webapp_banklogin\\webapp_banklogin\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4228AEDF-E6E0-4A8C-B6B0-29FB41E541EE}|Webapp_BankLogin\\Webapp_BankLogin.csproj|solutionrelative:webapp_banklogin\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\Webapp_BankLogin\\Webapp_BankLogin\\Program.cs",
+              "RelativeDocumentMoniker": "Webapp_BankLogin\\Program.cs",
+              "ToolTip": "D:\\dotNet\\Testing\\Webapp_BankLogin\\Webapp_BankLogin\\Program.cs",
+              "RelativeToolTip": "Webapp_BankLogin\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:49:55.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\Webapp_BankLogin\\Webapp_BankLogin\\Dockerfile",
+              "RelativeDocumentMoniker": "Webapp_BankLogin\\Dockerfile",
+              "ToolTip": "D:\\dotNet\\Testing\\Webapp_BankLogin\\Webapp_BankLogin\\Dockerfile",
+              "RelativeToolTip": "Webapp_BankLogin\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-25T08:43:33.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\Webapp_BankLogin\\Webapp_BankLogin\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Webapp_BankLogin\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\Webapp_BankLogin\\Webapp_BankLogin\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "Webapp_BankLogin\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T06:55:57.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\Webapp_BankLogin\\Webapp_BankLogin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Webapp_BankLogin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\dotNet\\Testing\\Webapp_BankLogin\\Webapp_BankLogin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Webapp_BankLogin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwCcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T06:41:13.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\Webapp_BankLogin\\Webapp_BankLogin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Webapp_BankLogin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\Webapp_BankLogin\\Webapp_BankLogin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Webapp_BankLogin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T06:39:20.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\Webapp_BankLogin\\Webapp_BankLogin\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Webapp_BankLogin\\Models\\User.cs",
+              "ToolTip": "D:\\dotNet\\Testing\\Webapp_BankLogin\\Webapp_BankLogin\\Models\\User.cs",
+              "RelativeToolTip": "Webapp_BankLogin\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T06:28:36.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
